@@ -3,4 +3,6 @@
  */
 window.onload = function () {
     let y = 2;
+    console.log(1)
 }
+
